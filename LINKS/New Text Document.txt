@@ -1,0 +1,8 @@
+Project Page-https://expo.dev/@praveenkzzz/Native_Learn?serviceType=classic&distribution=expo-go 
+
+Learn More(Steps) - https://expo.fyi/project
+-page 
+
+
+
+Manifest: https://exp.host/@praveenkzzz/Native_Learn/index.exp?sdkVersion=48.0.0 Learn more: https://expo.fyi/manifest-url
